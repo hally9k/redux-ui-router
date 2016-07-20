@@ -1,6 +1,6 @@
 {
-  "name": "redux-ui-router",
-  "version": "0.5.2",
+  "name": "hally9k-redux-ui-router",
+  "version": "0.0.5",
   "description": "Redux middleware for use with Angular UI Router",
   "main": "./lib/index.js",
   "scripts": {
